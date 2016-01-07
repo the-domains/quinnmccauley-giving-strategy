@@ -1,0 +1,1 @@
+# quinnmccauley-giving-strategy
