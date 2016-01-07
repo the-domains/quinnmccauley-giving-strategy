@@ -1,0 +1,28 @@
+name: QuinnMcCauley Giving Strategy
+favicon: null
+layout_spectrum: 0.27419286174699664
+typography_spectrum: 0.4359474191442132
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.07392563438042998
+  lightness: 0.7443009247072041
+  saturation: 0.4904882509727031
+  rhythmicContrast: 0.7214369087014347
+purpose: []
